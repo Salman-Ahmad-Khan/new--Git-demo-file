@@ -1,0 +1,42 @@
+h2[class="a"] {
+    color: #73031b;
+    font-family: Pacifico, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    font-style: italic;
+    line-height: 8px
+}
+
+nav a{
+   text-decoration: none;
+   color:white;
+  
+   padding: 20px;
+   float: left;  
+   
+}
+nav{
+background-color: #73031b;
+overflow: hidden;
+text-align: center;
+}
+nav a:hover{
+   color: brown;
+}
+/* nav a:visited{
+   /* color:blue; */
+
+footer a{
+   text-decoration: none;
+   color: chartreuse;
+   padding: 20px;
+  
+
+}
+footer{
+   /* background-color: darkslateblue; */
+   text-align: center;
+   background: #73031b;
+    padding: 15px 0;
+    color: #a64a3a;
+    font-size: 85%;
+} 
